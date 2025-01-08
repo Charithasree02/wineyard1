@@ -19,7 +19,11 @@ export default function Hero() {
             Share Your Wine Journey
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-300 max-w-3xl mx-auto">
-            Join the world's first social platform dedicated to wine enthusiasts. Create, share, and monetize your wine experiences.
+           <p>
+            Get paid for theS content you created and share.
+            </p>
+            <p>
+            Create-Connect-Earn-Grow</p>
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="px-8 py-3 bg-purple-600 hover:bg-purple-700 rounded-full font-semibold text-lg transition-colors">
